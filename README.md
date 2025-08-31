@@ -71,8 +71,8 @@ The following files summarize the key outputs of this project. They are stored i
 ---
 
 ## Insights
-- High growth counties cluster in [insert your findings: e.g., Southeast and Mountain West].  
-- Declining counties are concentrated in [insert findings: e.g., Midwest and Rust Belt].  
+- High growth counties cluster in Southeast and Mountain West.  
+- Declining counties are concentrated in Midwest and Rust Belt.  
 - Top predictors included housing affordability, employment change, crime rates, and migration trends.  
 - XGBoost outperformed linear and tree-based baselines, demonstrating the value of non-linear boosting methods in real estate forecasting.  
 

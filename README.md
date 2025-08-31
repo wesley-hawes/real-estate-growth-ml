@@ -15,7 +15,7 @@ The goal is to highlight which regions are expected to grow fastest (and slowest
 
 ### Predicted Growth Map (2026)
 ![Growth Map](artifacts/02_growth_2026_map.png)  
-*Interactive version available [here](artifacts/01_growth_2026_interactive_map.html).*
+*Interactive version available [here](https://wesley-hawes.github.io/real-estate-growth-ml/01_growth_2026_interactive_map.html).*
 
 ### Top 10 Counties by Predicted Growth
 ![Top 10 Bar](artifacts/03_top10_bar_2026.png)

@@ -71,10 +71,21 @@ The following files summarize the key outputs of this project. They are stored i
 ---
 
 ## Insights
-- High growth counties cluster in Southeast and Mountain West.  
-- Declining counties are concentrated in Midwest and Rust Belt.  
+- High growth counties clusters in the Northeast, Midwest, and Appalachian South.  
+- Declining counties are concentrated in Mountain West, West Coast, Texas, and scattered Southeast counties.  
 - Top predictors included housing affordability, employment change, crime rates, and migration trends.  
-- XGBoost outperformed linear and tree-based baselines, demonstrating the value of non-linear boosting methods in real estate forecasting.  
+- XGBoost outperformed linear and tree-based baselines, demonstrating the value of non-linear boosting methods in real estate forecasting.
+
+## Hypothesis on Regional Patterns
+One possible explanation for the patterns observed in predicted growth is the impact of remote work adoption after the COVID-19 pandemic. Counties in the Mountain West and parts of the West Coast show negative growth, which may reflect out-migration from expensive urban areas as workers take advantage of remote opportunities. Meanwhile, counties in the Midwest, Northeast, and Appalachian South showing strong positive growth may be benefiting from:
+
+Lower housing costs attracting remote workers seeking affordability.
+
+Shifts in population toward counties with existing infrastructure but lower density.
+
+Employers and employees redistributing outside of major metropolitan centers.
+
+This hypothesis aligns with national trends where affordability + connectivity are increasingly important drivers of migration and local growth.
 
 ---
 

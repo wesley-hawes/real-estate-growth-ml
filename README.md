@@ -34,7 +34,7 @@ The following files summarize the key outputs of this project. They are stored i
 
 ### 1. Growth Maps
 - **01_growth_2026_interactive_map.html** → Interactive county-level choropleth (open in a browser)
-- **02_growth_2026_map.png** → Static county-level choropleth (for README/LinkedIn)
+- **02_growth_2026_map.png** → Static county-level choropleth
 
 ### 2. Ranking Charts
 - **03_top10_bar_2026.png** → Top 10 counties by predicted growth
